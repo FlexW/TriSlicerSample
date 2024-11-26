@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B8790CC0-4F15-822B-DC6A-B5B5F6690A0B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TriSlicerSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
